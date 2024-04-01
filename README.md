@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on environmental conservation and would love to use my programming skills in this field. 
+🔭 I’m currently working on environmental conservation and would love to use my programming and data analysis skills in this field. 
 If you have any interesting projects, reach me at mrshadow6918@hotmail.com
 
 <!--
